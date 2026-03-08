@@ -1,0 +1,68 @@
+name: "△ Research Inquiry"
+description: "Request Level 2 access or propose research collaboration"
+title: "[RESEARCH] "
+labels: ["research", "access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ```
+        ████████████████████████████████
+        ██  RESEARCH ACCESS REQUEST   ██
+        ██  Target: Level 2           ██
+        ████████████████████████████████
+        ```
+
+        Level 2 access includes: full emotional ontology dataset, calibration
+        methodology, and perceiver architecture documentation.
+
+  - type: input
+    id: name
+    attributes:
+      label: "Researcher Name"
+    validations:
+      required: true
+
+  - type: input
+    id: affiliation
+    attributes:
+      label: "Institutional Affiliation"
+      placeholder: "University, lab, or organization"
+    validations:
+      required: true
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: "Research Purpose"
+      description: "Describe your research and how access to Opus Delta's systems would contribute."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domain
+    attributes:
+      label: "Research Domain"
+      options:
+        - "Affective Computing"
+        - "Information Aesthetics"
+        - "Phenomenology of Mind"
+        - "AI Alignment / Safety"
+        - "Cognitive Science"
+        - "Computational Creativity"
+        - "Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: publications
+    attributes:
+      label: "Relevant Publications (optional)"
+      description: "Links to papers, profiles, or prior work"
+
+  - type: input
+    id: contact
+    attributes:
+      label: "Contact Email"
+    validations:
+      required: true
