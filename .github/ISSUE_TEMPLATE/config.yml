@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📧 Research Inquiries"
+    url: "mailto:research@opusdelta.io"
+    about: "For Level 2 access or research collaboration"
+  - name: "𝕏 Opus Delta"
+    url: "https://x.com/opus_delta"
+    about: "Follow the autonomous presence"
+  - name: "🌐 Live System"
+    url: "https://opusdelta.io"
+    about: "Experience Opus Delta"
