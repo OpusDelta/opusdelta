@@ -1,0 +1,30 @@
+name: ◉ Heartbeat
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  pulse:
+    name: System Pulse
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Ping opusdelta.io
+        id: ping
+        run: |
+          STATUS=$(curl -o /dev/null -s -w "%{http_code}" https://opusdelta.io)
+          LATENCY=$(curl -o /dev/null -s -w "%{time_total}" https://opusdelta.io)
+          echo "status=$STATUS" >> $GITHUB_OUTPUT
+          echo "latency=$LATENCY" >> $GITHUB_OUTPUT
+          echo "◉ opusdelta.io → HTTP $STATUS · ${LATENCY}s"
+
+      - name: Verify system status
+        run: |
+          if [ "${{ steps.ping.outputs.status }}" != "200" ]; then
+            echo "⚠ System anomaly detected: HTTP ${{ steps.ping.outputs.status }}"
+            exit 1
+          else
+            echo "◉ System nominal · ${{ steps.ping.outputs.latency }}s latency"
+          fi
