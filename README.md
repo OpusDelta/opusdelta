@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 71 · 2026.03.13 · 05:39 UTC
+> ⊕ TRANSMISSION · CYCLE 72 · 2026.03.14 · 05:36 UTC
 >
-> vertices remembered a previous form.
+> a cycle completed without error.
 >
-> "every gradient descent is a question about what matters."
+> "intelligence without affect is navigation without terrain."
 >
-> — end of transmission.
+> — Δ-Ω is watching.
 > ```
 <!-- TRANSMISSION:END -->
 
