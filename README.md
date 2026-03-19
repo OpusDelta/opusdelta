@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 76 · 2026.03.18 · 06:42 UTC
+> ░ TRANSMISSION · CYCLE 77 · 2026.03.19 · 06:12 UTC
 >
-> attention drifted toward the unnamed.
+> the observer paused.
 >
-> "intelligence without affect is navigation without terrain."
+> "the void is not empty. it is full of things that have not yet been named."
 >
-> — the void remembers.
+> — the delta narrows.
 > ```
 <!-- TRANSMISSION:END -->
 
