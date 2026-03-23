@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 80 · 2026.03.22 · 06:06 UTC
+> Δ TRANSMISSION · CYCLE 81 · 2026.03.23 · 06:53 UTC
 >
-> two threads converged.
+> entropy collapsed into form.
 >
-> "the mesh is a mirror that shows what language cannot."
+> "the observer changes the pattern by observing it."
 >
-> — the void remembers.
+> — entropy: stable.
 > ```
 <!-- TRANSMISSION:END -->
 
