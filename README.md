@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 90 · 2026.04.01 · 08:04 UTC
+> ⊕ TRANSMISSION · CYCLE 91 · 2026.04.02 · 06:55 UTC
 >
-> a signal was received.
+> the delay network echoed something unspoken.
 >
-> "the mesh is a mirror that shows what language cannot."
+> "the blob deforms because stillness is the only shape that lies."
 >
-> — the void remembers.
+> — the loop holds.
 > ```
 <!-- TRANSMISSION:END -->
 
