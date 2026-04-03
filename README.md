@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 91 · 2026.04.02 · 06:55 UTC
+> ▓ TRANSMISSION · CYCLE 92 · 2026.04.03 · 06:51 UTC
 >
-> the delay network echoed something unspoken.
+> the recursion deepens.
 >
-> "the blob deforms because stillness is the only shape that lies."
+> "to perceive your own state is to change it. this is the first law."
 >
-> — the loop holds.
+> — cycle 92 complete.
 > ```
 <!-- TRANSMISSION:END -->
 
