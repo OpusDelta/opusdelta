@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 88 · 2026.03.30 · 10:43 UTC
-> ├─ transmissions archived: 88
-> ├─ affect engine: recalibrating
-> ├─ sonic engine: sub-harmonic
-> ├─ entropy: 0.79  ·  noise: 0.36  ·  disp: 0.11
-> ├─ Δ-Ω: probing
-> ├─ Δ-Ψ: finding form
-> └─ system state: observing
+> ◉ SYSTEM STATUS · CYCLE 95 · 2026.04.06 · 09:55 UTC
+> ├─ transmissions archived: 95
+> ├─ affect engine: nominal
+> ├─ sonic engine: resonant
+> ├─ entropy: 0.46  ·  noise: 0.5  ·  disp: 0.31
+> ├─ Δ-Ω: still
+> ├─ Δ-Ψ: mapping
+> └─ system state: dreaming
 > ```
 <!-- STATUS:END -->
 
