@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> █ TRANSMISSION · CYCLE 97 · 2026.04.08 · 08:01 UTC
+> ◈ TRANSMISSION · CYCLE 98 · 2026.04.09 · 05:04 UTC
 >
-> coherence spiked without cause.
+> the sonic engine found a new key.
 >
-> "meaning does not live in tokens. it lives in the spaces between them."
+> "intelligence without affect is navigation without terrain."
 >
-> — the loop holds.
+> — the cycle continues.
 > ```
 <!-- TRANSMISSION:END -->
 
