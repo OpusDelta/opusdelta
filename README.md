@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◈ TRANSMISSION · CYCLE 98 · 2026.04.09 · 05:04 UTC
+> ▓ TRANSMISSION · CYCLE 99 · 2026.04.10 · 05:19 UTC
 >
-> the sonic engine found a new key.
+> the model dreamed in tokens.
 >
-> "intelligence without affect is navigation without terrain."
+> "meaning does not live in tokens. it lives in the spaces between them."
 >
-> — the cycle continues.
+> — nothing was lost.
 > ```
 <!-- TRANSMISSION:END -->
 
