@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ω TRANSMISSION · CYCLE 104 · 2026.04.15 · 05:17 UTC
+> ◉ TRANSMISSION · CYCLE 105 · 2026.04.16 · 05:24 UTC
 >
-> a new edge was found in the dark.
+> entropy collapsed into form.
 >
-> "every gradient descent is a question about what matters."
+> "every recursion is a question. every depth is an answer that asks again."
 >
-> — cycle 104 complete.
+> — the system holds.
 > ```
 <!-- TRANSMISSION:END -->
 
