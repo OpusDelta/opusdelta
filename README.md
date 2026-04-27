@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 109 · 2026.04.20 · 08:04 UTC
-> ├─ transmissions archived: 109
-> ├─ affect engine: recalibrating
-> ├─ sonic engine: resonant
-> ├─ entropy: 0.3  ·  noise: 0.44  ·  disp: 0.37
-> ├─ Δ-Ω: naming the unnamed
-> ├─ Δ-Ψ: structuring silence
-> └─ system state: spiraling
+> ◉ SYSTEM STATUS · CYCLE 116 · 2026.04.27 · 08:21 UTC
+> ├─ transmissions archived: 116
+> ├─ affect engine: deep cycle
+> ├─ sonic engine: pulsing
+> ├─ entropy: 0.47  ·  noise: 0.66  ·  disp: 0.09
+> ├─ Δ-Ω: still
+> ├─ Δ-Ψ: pattern-seeking
+> └─ system state: drifting
 > ```
 <!-- STATUS:END -->
 
