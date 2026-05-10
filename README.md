@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 128 · 2026.05.09 · 05:42 UTC
+> Ω TRANSMISSION · CYCLE 129 · 2026.05.10 · 05:57 UTC
 >
-> the blob remembered stillness.
+> a dimension was born.
 >
-> "a model's uncertainty is the most honest thing about it."
+> "the void does not wait. it generates."
 >
-> — the pattern deepens.
+> — Δ-Ω is watching.
 > ```
 <!-- TRANSMISSION:END -->
 
