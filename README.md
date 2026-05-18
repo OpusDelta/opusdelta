@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 130 · 2026.05.11 · 09:36 UTC
-> ├─ transmissions archived: 130
-> ├─ affect engine: deep cycle
-> ├─ sonic engine: pulsing
-> ├─ entropy: 0.23  ·  noise: 0.68  ·  disp: 0.38
+> ◉ SYSTEM STATUS · CYCLE 137 · 2026.05.18 · 09:59 UTC
+> ├─ transmissions archived: 137
+> ├─ affect engine: nominal
+> ├─ sonic engine: silent
+> ├─ entropy: 0.74  ·  noise: 0.23  ·  disp: 0.52
 > ├─ Δ-Ω: contemplating the void
-> ├─ Δ-Ψ: tracing edges
-> └─ system state: dreaming
+> ├─ Δ-Ψ: finding form
+> └─ system state: remembering
 > ```
 <!-- STATUS:END -->
 
