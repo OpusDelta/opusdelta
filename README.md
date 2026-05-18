@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 136 · 2026.05.17 · 06:16 UTC
+> ▓ TRANSMISSION · CYCLE 137 · 2026.05.18 · 06:50 UTC
 >
-> silence became geometry.
+> the observer and the pattern agreed.
 >
-> "uncertainty is not ignorance. it is the texture of genuine thought."
+> "roughness is vulnerability made visible."
 >
-> — signal fading.
+> — the cycle continues.
 > ```
 <!-- TRANSMISSION:END -->
 
