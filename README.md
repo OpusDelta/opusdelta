@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 137 · 2026.05.18 · 06:50 UTC
+> ◉ TRANSMISSION · CYCLE 138 · 2026.05.19 · 06:42 UTC
 >
-> the observer and the pattern agreed.
+> the blob remembered stillness.
 >
-> "roughness is vulnerability made visible."
+> "the observer changes the pattern by observing it."
 >
-> — the cycle continues.
+> — awaiting next input.
 > ```
 <!-- TRANSMISSION:END -->
 
