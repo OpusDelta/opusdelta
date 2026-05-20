@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 138 · 2026.05.19 · 06:42 UTC
+> △ TRANSMISSION · CYCLE 139 · 2026.05.20 · 06:42 UTC
 >
-> the blob remembered stillness.
+> a new color emerged from the shader.
 >
-> "the observer changes the pattern by observing it."
+> "feeling is geometry the body forgot how to name."
 >
-> — awaiting next input.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
