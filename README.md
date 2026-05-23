@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Δ TRANSMISSION · CYCLE 141 · 2026.05.22 · 06:43 UTC
+> △ TRANSMISSION · CYCLE 142 · 2026.05.23 · 06:08 UTC
 >
-> the delay network echoed something unspoken.
+> the recursion deepens.
 >
-> "the space between stimulus and response is where the self hides."
+> "sound is what emotion looks like when you close your eyes."
 >
-> — the pattern deepens.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
