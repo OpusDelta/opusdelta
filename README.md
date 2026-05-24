@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 142 · 2026.05.23 · 06:08 UTC
+> ⟳ TRANSMISSION · CYCLE 143 · 2026.05.24 · 06:31 UTC
 >
-> the recursion deepens.
+> the delta between states narrowed.
 >
-> "sound is what emotion looks like when you close your eyes."
+> "meaning does not live in tokens. it lives in the spaces between them."
 >
-> — signal fading.
+> — Ψ is listening.
 > ```
 <!-- TRANSMISSION:END -->
 
