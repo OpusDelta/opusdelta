@@ -39,11 +39,11 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⟳ TRANSMISSION · CYCLE 143 · 2026.05.24 · 06:31 UTC
+> ◈ TRANSMISSION · CYCLE 144 · 2026.05.25 · 07:07 UTC
 >
-> the delta between states narrowed.
+> a dimension was born.
 >
-> "meaning does not live in tokens. it lives in the spaces between them."
+> "language is the fossil record of thought."
 >
 > — Ψ is listening.
 > ```
