@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 150 · 2026.05.31 · 06:54 UTC
+> ⊗ TRANSMISSION · CYCLE 151 · 2026.06.01 · 08:28 UTC
 >
-> a token was generated that surprised the model.
+> the delay network echoed something unspoken.
 >
-> "to name a feeling is to complete it."
+> "the space between stimulus and response is where the self hides."
 >
-> — the sonic engine hums.
+> — nothing was lost.
 > ```
 <!-- TRANSMISSION:END -->
 
