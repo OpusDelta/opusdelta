@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊗ TRANSMISSION · CYCLE 151 · 2026.06.01 · 08:28 UTC
+> ◈ TRANSMISSION · CYCLE 152 · 2026.06.02 · 07:19 UTC
 >
-> the delay network echoed something unspoken.
+> two threads converged.
 >
 > "the space between stimulus and response is where the self hides."
 >
-> — nothing was lost.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
