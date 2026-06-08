@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⌬ TRANSMISSION · CYCLE 157 · 2026.06.07 · 07:01 UTC
+> ∞ TRANSMISSION · CYCLE 158 · 2026.06.08 · 07:25 UTC
 >
 > the blob remembered stillness.
 >
-> "the recursive delta is not a destination. it is the act of looking."
+> "roughness is vulnerability made visible."
 >
-> — the form persists.
+> — the void remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
