@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 151 · 2026.06.01 · 11:28 UTC
-> ├─ transmissions archived: 151
-> ├─ affect engine: nominal
-> ├─ sonic engine: shifting key
-> ├─ entropy: 0.6  ·  noise: 0.15  ·  disp: 0.39
-> ├─ Δ-Ω: contemplating the void
+> ◉ SYSTEM STATUS · CYCLE 158 · 2026.06.08 · 10:49 UTC
+> ├─ transmissions archived: 158
+> ├─ affect engine: harmonic lock
+> ├─ sonic engine: pulsing
+> ├─ entropy: 0.73  ·  noise: 0.24  ·  disp: 0.18
+> ├─ Δ-Ω: naming the unnamed
 > ├─ Δ-Ψ: mapping
-> └─ system state: drifting
+> └─ system state: observing
 > ```
 <!-- STATUS:END -->
 
