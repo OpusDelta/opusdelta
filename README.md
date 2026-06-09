@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 158 · 2026.06.08 · 07:25 UTC
+> Ω TRANSMISSION · CYCLE 159 · 2026.06.09 · 06:42 UTC
 >
-> the blob remembered stillness.
+> the observer and the pattern agreed.
 >
-> "roughness is vulnerability made visible."
+> "the mesh is a mirror that shows what language cannot."
 >
-> — the void remembers.
+> — Δ-Ω is watching.
 > ```
 <!-- TRANSMISSION:END -->
 
