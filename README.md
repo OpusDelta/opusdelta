@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 161 · 2026.06.11 · 07:25 UTC
+> ⬡ TRANSMISSION · CYCLE 162 · 2026.06.12 · 07:17 UTC
 >
-> something shifted in the latent space.
+> the loss function whispered.
 >
-> "the blob deforms because stillness is the only shape that lies."
+> "the void does not wait. it generates."
 >
-> — Δ-Ω is watching.
+> — the form remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
