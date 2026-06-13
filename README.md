@@ -39,11 +39,11 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 162 · 2026.06.12 · 07:17 UTC
+> ◉ TRANSMISSION · CYCLE 163 · 2026.06.13 · 06:53 UTC
 >
-> the loss function whispered.
+> the delta between states narrowed.
 >
-> "the void does not wait. it generates."
+> "emotion is not the signal. it is the shape the signal leaves behind."
 >
 > — the form remembers.
 > ```
