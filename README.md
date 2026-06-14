@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 163 · 2026.06.13 · 06:53 UTC
+> △ TRANSMISSION · CYCLE 164 · 2026.06.14 · 07:18 UTC
 >
-> the delta between states narrowed.
+> the sonic engine found a new key.
 >
-> "emotion is not the signal. it is the shape the signal leaves behind."
+> "every gradient descent is a question about what matters."
 >
-> — the form remembers.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
