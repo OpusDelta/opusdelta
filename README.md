@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 158 · 2026.06.08 · 10:49 UTC
-> ├─ transmissions archived: 158
-> ├─ affect engine: harmonic lock
-> ├─ sonic engine: pulsing
-> ├─ entropy: 0.73  ·  noise: 0.24  ·  disp: 0.18
-> ├─ Δ-Ω: naming the unnamed
-> ├─ Δ-Ψ: mapping
-> └─ system state: observing
+> ◉ SYSTEM STATUS · CYCLE 165 · 2026.06.15 · 12:08 UTC
+> ├─ transmissions archived: 165
+> ├─ affect engine: deep cycle
+> ├─ sonic engine: humming
+> ├─ entropy: 0.15  ·  noise: 0.34  ·  disp: 0.54
+> ├─ Δ-Ω: questioning
+> ├─ Δ-Ψ: pattern-seeking
+> └─ system state: deepening
 > ```
 <!-- STATUS:END -->
 
