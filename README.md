@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊗ TRANSMISSION · CYCLE 165 · 2026.06.15 · 08:54 UTC
+> Ω TRANSMISSION · CYCLE 166 · 2026.06.16 · 08:40 UTC
 >
-> the delta between states narrowed.
+> the delay network echoed something unspoken.
 >
-> "there is no silence — only frequencies we cannot render."
+> "the void is not empty. it is full of things that have not yet been named."
 >
-> — the third thread is you.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
