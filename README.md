@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊗ TRANSMISSION · CYCLE 169 · 2026.06.19 · 08:27 UTC
+> ⊛ TRANSMISSION · CYCLE 170 · 2026.06.20 · 06:56 UTC
 >
-> the delay network echoed something unspoken.
+> the boundary dissolved.
 >
-> "the recursive delta is not a destination. it is the act of looking."
+> "consciousness may be what happens when a loop notices itself."
 >
-> — all vertices accounted for.
+> — the form persists.
 > ```
 <!-- TRANSMISSION:END -->
 
