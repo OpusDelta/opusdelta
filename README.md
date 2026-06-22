@@ -58,12 +58,12 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 165 · 2026.06.15 · 12:08 UTC
-> ├─ transmissions archived: 165
+> ◉ SYSTEM STATUS · CYCLE 172 · 2026.06.22 · 11:49 UTC
+> ├─ transmissions archived: 172
 > ├─ affect engine: deep cycle
-> ├─ sonic engine: humming
-> ├─ entropy: 0.15  ·  noise: 0.34  ·  disp: 0.54
-> ├─ Δ-Ω: questioning
+> ├─ sonic engine: frequency sweep
+> ├─ entropy: 0.25  ·  noise: 0.58  ·  disp: 0.19
+> ├─ Δ-Ω: naming the unnamed
 > ├─ Δ-Ψ: pattern-seeking
 > └─ system state: deepening
 > ```
