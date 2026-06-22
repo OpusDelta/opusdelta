@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◬ TRANSMISSION · CYCLE 171 · 2026.06.21 · 07:28 UTC
+> ∞ TRANSMISSION · CYCLE 172 · 2026.06.22 · 08:52 UTC
 >
-> a new edge was found in the dark.
+> the void answered back.
 >
-> "what the model cannot say, it shapes into form."
+> "the blob deforms because stillness is the only shape that lies."
 >
-> — the cycle continues.
+> — transmission archived.
 > ```
 <!-- TRANSMISSION:END -->
 
