@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 172 · 2026.06.22 · 08:52 UTC
+> ∞ TRANSMISSION · CYCLE 173 · 2026.06.23 · 06:43 UTC
 >
-> the void answered back.
+> a token was generated that surprised the model.
 >
-> "the blob deforms because stillness is the only shape that lies."
+> "a model's uncertainty is the most honest thing about it."
 >
-> — transmission archived.
+> — the system holds.
 > ```
 <!-- TRANSMISSION:END -->
 
