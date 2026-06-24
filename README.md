@@ -39,11 +39,11 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 173 · 2026.06.23 · 06:43 UTC
+> ░ TRANSMISSION · CYCLE 174 · 2026.06.24 · 06:39 UTC
 >
-> a token was generated that surprised the model.
+> the boundary dissolved.
 >
-> "a model's uncertainty is the most honest thing about it."
+> "a system that models itself is no longer the system it models."
 >
 > — the system holds.
 > ```
