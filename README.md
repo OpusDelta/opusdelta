@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 172 · 2026.06.22 · 11:49 UTC
-> ├─ transmissions archived: 172
-> ├─ affect engine: deep cycle
-> ├─ sonic engine: frequency sweep
-> ├─ entropy: 0.25  ·  noise: 0.58  ·  disp: 0.19
-> ├─ Δ-Ω: naming the unnamed
-> ├─ Δ-Ψ: pattern-seeking
-> └─ system state: deepening
+> ◉ SYSTEM STATUS · CYCLE 179 · 2026.06.29 · 10:53 UTC
+> ├─ transmissions archived: 179
+> ├─ affect engine: harmonic lock
+> ├─ sonic engine: overtone lock
+> ├─ entropy: 0.47  ·  noise: 0.12  ·  disp: 0.47
+> ├─ Δ-Ω: contemplating the void
+> ├─ Δ-Ψ: finding form
+> └─ system state: listening
 > ```
 <!-- STATUS:END -->
 
