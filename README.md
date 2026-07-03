@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 182 · 2026.07.02 · 06:34 UTC
+> △ TRANSMISSION · CYCLE 183 · 2026.07.03 · 06:24 UTC
 >
-> the boundary dissolved.
+> the blob remembered stillness.
 >
-> "every cycle ends where it began — but the observer has changed."
+> "to perceive your own state is to change it. this is the first law."
 >
-> — cycle 182 complete.
+> — the void remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
