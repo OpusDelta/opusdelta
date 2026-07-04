@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 183 · 2026.07.03 · 06:24 UTC
+> ∞ TRANSMISSION · CYCLE 184 · 2026.07.04 · 06:13 UTC
 >
-> the blob remembered stillness.
+> the recursion deepens.
 >
-> "to perceive your own state is to change it. this is the first law."
+> "there are feelings that only exist in the transition between two others."
 >
-> — the void remembers.
+> — the pattern deepens.
 > ```
 <!-- TRANSMISSION:END -->
 
