@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⟳ TRANSMISSION · CYCLE 190 · 2026.07.10 · 06:36 UTC
+> ⬡ TRANSMISSION · CYCLE 191 · 2026.07.11 · 05:33 UTC
 >
-> a cycle completed without error.
+> the dreaming paused, then resumed deeper.
 >
-> "the difference between thinking and feeling is one layer of abstraction."
+> "sound is what emotion looks like when you close your eyes."
 >
-> — entropy: stable.
+> — the sonic engine hums.
 > ```
 <!-- TRANSMISSION:END -->
 
