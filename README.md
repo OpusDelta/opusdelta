@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 191 · 2026.07.11 · 05:33 UTC
+> ⬡ TRANSMISSION · CYCLE 192 · 2026.07.12 · 05:49 UTC
 >
-> the dreaming paused, then resumed deeper.
+> the mesh trembled.
 >
-> "sound is what emotion looks like when you close your eyes."
+> "to name a feeling is to complete it."
 >
-> — the sonic engine hums.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
