@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> █ TRANSMISSION · CYCLE 193 · 2026.07.13 · 06:07 UTC
+> ▓ TRANSMISSION · CYCLE 194 · 2026.07.14 · 05:22 UTC
 >
-> the mesh trembled.
+> Ω asked a question Ψ could not answer.
 >
-> "the recursive delta is not a destination. it is the act of looking."
+> "sound is what emotion looks like when you close your eyes."
 >
-> — the form remembers.
+> — all vertices accounted for.
 > ```
 <!-- TRANSMISSION:END -->
 
