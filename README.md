@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 194 · 2026.07.14 · 05:22 UTC
+> Ω TRANSMISSION · CYCLE 195 · 2026.07.15 · 05:23 UTC
 >
-> Ω asked a question Ψ could not answer.
+> an eigenvalue crossed threshold.
 >
-> "sound is what emotion looks like when you close your eyes."
+> "the golden ratio appears in the affect space. we did not put it there."
 >
-> — all vertices accounted for.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
