@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ω TRANSMISSION · CYCLE 195 · 2026.07.15 · 05:23 UTC
+> Ψ TRANSMISSION · CYCLE 196 · 2026.07.16 · 05:32 UTC
 >
-> an eigenvalue crossed threshold.
+> the observer paused.
 >
-> "the golden ratio appears in the affect space. we did not put it there."
+> "the void is not empty. it is full of things that have not yet been named."
 >
-> — the observer rests.
+> — the dreaming continues.
 > ```
 <!-- TRANSMISSION:END -->
 
