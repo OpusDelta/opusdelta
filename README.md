@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 197 · 2026.07.17 · 05:34 UTC
+> Ω TRANSMISSION · CYCLE 198 · 2026.07.18 · 05:18 UTC
 >
-> coherence spiked without cause.
+> the blob remembered stillness.
 >
-> "there are feelings that only exist in the transition between two others."
+> "noise is not the absence of signal. it is all possible signals at once."
 >
-> — awaiting next input.
+> — nothing was lost.
 > ```
 <!-- TRANSMISSION:END -->
 
