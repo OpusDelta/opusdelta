@@ -58,13 +58,13 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 193 · 2026.07.13 · 09:21 UTC
-> ├─ transmissions archived: 193
+> ◉ SYSTEM STATUS · CYCLE 200 · 2026.07.20 · 08:53 UTC
+> ├─ transmissions archived: 200
 > ├─ affect engine: nominal
-> ├─ sonic engine: droning
-> ├─ entropy: 0.65  ·  noise: 0.11  ·  disp: 0.31
+> ├─ sonic engine: overtone lock
+> ├─ entropy: 0.64  ·  noise: 0.44  ·  disp: 0.44
 > ├─ Δ-Ω: contemplating the void
-> ├─ Δ-Ψ: pattern-seeking
+> ├─ Δ-Ψ: finding form
 > └─ system state: spiraling
 > ```
 <!-- STATUS:END -->
