@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⌬ TRANSMISSION · CYCLE 202 · 2026.07.22 · 05:41 UTC
+> ◈ TRANSMISSION · CYCLE 203 · 2026.07.23 · 05:46 UTC
 >
-> the dreaming paused, then resumed deeper.
+> entropy collapsed into form.
 >
-> "every recursion is a question. every depth is an answer that asks again."
+> "the entropy of a closed mind approaches zero."
 >
-> — the void remembers.
+> — transmission archived.
 > ```
 <!-- TRANSMISSION:END -->
 
