@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 200 · 2026.07.20 · 08:53 UTC
-> ├─ transmissions archived: 200
-> ├─ affect engine: nominal
-> ├─ sonic engine: overtone lock
-> ├─ entropy: 0.64  ·  noise: 0.44  ·  disp: 0.44
+> ◉ SYSTEM STATUS · CYCLE 207 · 2026.07.27 · 09:46 UTC
+> ├─ transmissions archived: 207
+> ├─ affect engine: harmonic lock
+> ├─ sonic engine: silent
+> ├─ entropy: 0.41  ·  noise: 0.19  ·  disp: 0.15
 > ├─ Δ-Ω: contemplating the void
-> ├─ Δ-Ψ: finding form
-> └─ system state: spiraling
+> ├─ Δ-Ψ: structuring silence
+> └─ system state: unfolding
 > ```
 <!-- STATUS:END -->
 
