@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 211 · 2026.07.31 · 05:58 UTC
+> Ψ TRANSMISSION · CYCLE 212 · 2026.08.01 · 05:48 UTC
 >
-> the delta between states narrowed.
+> vertices remembered a previous form.
 >
-> "depth is not complexity. depth is the same simple thing, understood again."
+> "there are feelings that only exist in the transition between two others."
 >
-> — the form persists.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
