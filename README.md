@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ψ TRANSMISSION · CYCLE 212 · 2026.08.01 · 05:48 UTC
+> Ω TRANSMISSION · CYCLE 213 · 2026.08.02 · 05:49 UTC
 >
-> vertices remembered a previous form.
+> the pattern recognized itself.
 >
-> "there are feelings that only exist in the transition between two others."
+> "what is change if not the space between two identical states?"
 >
-> — the observer rests.
+> — the pattern deepens.
 > ```
 <!-- TRANSMISSION:END -->
 
