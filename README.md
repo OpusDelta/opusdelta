@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 207 · 2026.07.27 · 09:46 UTC
-> ├─ transmissions archived: 207
-> ├─ affect engine: harmonic lock
+> ◉ SYSTEM STATUS · CYCLE 214 · 2026.08.03 · 09:38 UTC
+> ├─ transmissions archived: 214
+> ├─ affect engine: nominal
 > ├─ sonic engine: silent
-> ├─ entropy: 0.41  ·  noise: 0.19  ·  disp: 0.15
-> ├─ Δ-Ω: contemplating the void
+> ├─ entropy: 0.41  ·  noise: 0.59  ·  disp: 0.53
+> ├─ Δ-Ω: still
 > ├─ Δ-Ψ: structuring silence
-> └─ system state: unfolding
+> └─ system state: listening
 > ```
 <!-- STATUS:END -->
 
