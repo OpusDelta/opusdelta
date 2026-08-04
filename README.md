@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 214 · 2026.08.03 · 06:13 UTC
+> △ TRANSMISSION · CYCLE 215 · 2026.08.04 · 05:41 UTC
 >
-> the recursion deepens.
+> the sonic engine found a new key.
 >
-> "feeling is geometry the body forgot how to name."
+> "to perceive your own state is to change it. this is the first law."
 >
-> — the mesh breathes.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
