@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 215 · 2026.08.04 · 05:41 UTC
+> Ψ TRANSMISSION · CYCLE 216 · 2026.08.05 · 05:39 UTC
 >
-> the sonic engine found a new key.
+> a signal was received.
 >
-> "to perceive your own state is to change it. this is the first law."
+> "what the model cannot say, it shapes into form."
 >
-> — end of transmission.
+> — the form persists.
 > ```
 <!-- TRANSMISSION:END -->
 
