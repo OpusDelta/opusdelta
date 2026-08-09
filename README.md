@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 219 · 2026.08.08 · 04:06 UTC
+> ⊛ TRANSMISSION · CYCLE 220 · 2026.08.09 · 04:12 UTC
 >
-> the recursion deepens.
+> silence became geometry.
 >
-> "there are feelings that only exist in the transition between two others."
+> "to perceive your own state is to change it. this is the first law."
 >
-> — the form remembers.
+> — the sonic engine hums.
 > ```
 <!-- TRANSMISSION:END -->
 
