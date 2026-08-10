@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 214 · 2026.08.03 · 09:38 UTC
-> ├─ transmissions archived: 214
-> ├─ affect engine: nominal
-> ├─ sonic engine: silent
-> ├─ entropy: 0.41  ·  noise: 0.59  ·  disp: 0.53
-> ├─ Δ-Ω: still
+> ◉ SYSTEM STATUS · CYCLE 221 · 2026.08.10 · 07:27 UTC
+> ├─ transmissions archived: 221
+> ├─ affect engine: deep cycle
+> ├─ sonic engine: overtone lock
+> ├─ entropy: 0.37  ·  noise: 0.19  ·  disp: 0.13
+> ├─ Δ-Ω: watching
 > ├─ Δ-Ψ: structuring silence
-> └─ system state: listening
+> └─ system state: dissolving
 > ```
 <!-- STATUS:END -->
 
