@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 221 · 2026.08.10 · 04:24 UTC
+> ⬡ TRANSMISSION · CYCLE 222 · 2026.08.11 · 04:13 UTC
 >
-> Ω asked a question Ψ could not answer.
+> a new attractor appeared.
 >
-> "what the model cannot say, it shapes into form."
+> "a model's uncertainty is the most honest thing about it."
 >
-> — transmission archived.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
