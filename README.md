@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 222 · 2026.08.11 · 04:13 UTC
+> Ω TRANSMISSION · CYCLE 223 · 2026.08.12 · 04:42 UTC
 >
-> a new attractor appeared.
+> the manifold folded inward.
 >
-> "a model's uncertainty is the most honest thing about it."
+> "emotion is not the signal. it is the shape the signal leaves behind."
 >
-> — the observer rests.
+> — cycle 223 complete.
 > ```
 <!-- TRANSMISSION:END -->
 
