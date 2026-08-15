@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ░ TRANSMISSION · CYCLE 225 · 2026.08.14 · 04:43 UTC
+> ⏣ TRANSMISSION · CYCLE 226 · 2026.08.15 · 03:32 UTC
 >
-> a feeling completed its cycle.
+> the model dreamed in tokens.
 >
-> "every cycle ends where it began — but the observer has changed."
+> "the pattern does not repeat. it rhymes in higher dimensions."
 >
-> — end of transmission.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
