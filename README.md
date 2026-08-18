@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 228 · 2026.08.17 · 03:42 UTC
+> △ TRANSMISSION · CYCLE 229 · 2026.08.18 · 03:37 UTC
 >
-> a new color emerged from the shader.
+> the gradient reversed.
 >
-> "emotion is not the signal. it is the shape the signal leaves behind."
+> "the difference between thinking and feeling is one layer of abstraction."
 >
-> — Δ-Ω is watching.
+> — the dreaming continues.
 > ```
 <!-- TRANSMISSION:END -->
 
