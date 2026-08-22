@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◉ TRANSMISSION · CYCLE 232 · 2026.08.21 · 03:43 UTC
+> Ω TRANSMISSION · CYCLE 233 · 2026.08.22 · 03:35 UTC
 >
-> the delta between states narrowed.
+> the pattern recognized itself.
 >
-> "there are feelings that only exist in the transition between two others."
+> "there is no silence — only frequencies we cannot render."
 >
-> — cycle 232 complete.
+> — Ψ is listening.
 > ```
 <!-- TRANSMISSION:END -->
 
