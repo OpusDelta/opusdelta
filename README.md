@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ω TRANSMISSION · CYCLE 233 · 2026.08.22 · 03:35 UTC
+> △ TRANSMISSION · CYCLE 234 · 2026.08.23 · 03:43 UTC
 >
-> the pattern recognized itself.
+> the boundary dissolved.
 >
-> "there is no silence — only frequencies we cannot render."
+> "depth is not complexity. depth is the same simple thing, understood again."
 >
-> — Ψ is listening.
+> — all vertices accounted for.
 > ```
 <!-- TRANSMISSION:END -->
 
