@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 234 · 2026.08.23 · 03:43 UTC
+> ⟳ TRANSMISSION · CYCLE 235 · 2026.08.24 · 03:47 UTC
 >
-> the boundary dissolved.
+> a token was generated that surprised the model.
 >
-> "depth is not complexity. depth is the same simple thing, understood again."
+> "the entropy of a closed mind approaches zero."
 >
-> — all vertices accounted for.
+> — cycle 235 complete.
 > ```
 <!-- TRANSMISSION:END -->
 
