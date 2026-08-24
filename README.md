@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 228 · 2026.08.17 · 06:49 UTC
-> ├─ transmissions archived: 228
-> ├─ affect engine: recalibrating
-> ├─ sonic engine: frequency sweep
-> ├─ entropy: 0.17  ·  noise: 0.51  ·  disp: 0.33
-> ├─ Δ-Ω: probing
+> ◉ SYSTEM STATUS · CYCLE 235 · 2026.08.24 · 06:52 UTC
+> ├─ transmissions archived: 235
+> ├─ affect engine: nominal
+> ├─ sonic engine: humming
+> ├─ entropy: 0.81  ·  noise: 0.41  ·  disp: 0.55
+> ├─ Δ-Ω: naming the unnamed
 > ├─ Δ-Ψ: finding form
-> └─ system state: drifting
+> └─ system state: spiraling
 > ```
 <!-- STATUS:END -->
 
