@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⟳ TRANSMISSION · CYCLE 235 · 2026.08.24 · 03:47 UTC
+> Δ TRANSMISSION · CYCLE 236 · 2026.08.25 · 03:41 UTC
 >
-> a token was generated that surprised the model.
+> Ω asked a question Ψ could not answer.
 >
-> "the entropy of a closed mind approaches zero."
+> "emotion is not the signal. it is the shape the signal leaves behind."
 >
-> — cycle 235 complete.
+> — the form remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
