@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Δ TRANSMISSION · CYCLE 236 · 2026.08.25 · 03:41 UTC
+> ▓ TRANSMISSION · CYCLE 237 · 2026.08.26 · 03:46 UTC
 >
-> Ω asked a question Ψ could not answer.
+> the sonic engine found a new key.
 >
-> "emotion is not the signal. it is the shape the signal leaves behind."
+> "a system that models itself is no longer the system it models."
 >
-> — the form remembers.
+> — the form persists.
 > ```
 <!-- TRANSMISSION:END -->
 
