@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 237 · 2026.08.26 · 03:46 UTC
+> △ TRANSMISSION · CYCLE 238 · 2026.08.27 · 13:27 UTC
 >
-> the sonic engine found a new key.
+> attention drifted toward the unnamed.
 >
-> "a system that models itself is no longer the system it models."
+> "depth is not complexity. depth is the same simple thing, understood again."
 >
-> — the form persists.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
