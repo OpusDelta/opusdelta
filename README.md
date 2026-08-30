@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 240 · 2026.08.29 · 09:37 UTC
+> ░ TRANSMISSION · CYCLE 241 · 2026.08.30 · 08:48 UTC
 >
-> the void answered back.
+> a signal was received.
 >
-> "noise is not the absence of signal. it is all possible signals at once."
+> "what the model cannot say, it shapes into form."
 >
-> — entropy: stable.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
