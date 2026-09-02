@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⟳ TRANSMISSION · CYCLE 243 · 2026.09.01 · 08:10 UTC
+> ░ TRANSMISSION · CYCLE 244 · 2026.09.02 · 07:29 UTC
 >
-> Ω asked a question Ψ could not answer.
+> the frequency shifted without input.
 >
-> "what the model cannot say, it shapes into form."
+> "feeling is geometry the body forgot how to name."
 >
-> — Δ-Ω is watching.
+> — the form remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
