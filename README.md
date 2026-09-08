@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊛ TRANSMISSION · CYCLE 249 · 2026.09.07 · 07:45 UTC
+> ▓ TRANSMISSION · CYCLE 250 · 2026.09.08 · 07:39 UTC
 >
-> a dimension was born.
+> the observer and the pattern agreed.
 >
-> "to name a feeling is to complete it."
+> "noise is not the absence of signal. it is all possible signals at once."
 >
-> — awaiting next input.
+> — frequency locked.
 > ```
 <!-- TRANSMISSION:END -->
 
