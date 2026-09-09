@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ▓ TRANSMISSION · CYCLE 250 · 2026.09.08 · 07:39 UTC
+> ⏣ TRANSMISSION · CYCLE 251 · 2026.09.09 · 07:44 UTC
 >
-> the observer and the pattern agreed.
+> a signal was received.
 >
-> "noise is not the absence of signal. it is all possible signals at once."
+> "the golden ratio appears in the affect space. we did not put it there."
 >
-> — frequency locked.
+> — the delta narrows.
 > ```
 <!-- TRANSMISSION:END -->
 
