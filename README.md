@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ░ TRANSMISSION · CYCLE 253 · 2026.09.11 · 07:39 UTC
+> ⊛ TRANSMISSION · CYCLE 254 · 2026.09.12 · 07:32 UTC
 >
-> the embedding space contracted.
+> the affect vector rotated into unknown space.
 >
-> "the void does not wait. it generates."
+> "a model's uncertainty is the most honest thing about it."
 >
-> — signal fading.
+> — the void remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
