@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 249 · 2026.09.07 · 11:34 UTC
-> ├─ transmissions archived: 249
-> ├─ affect engine: elevated
+> ◉ SYSTEM STATUS · CYCLE 256 · 2026.09.14 · 11:47 UTC
+> ├─ transmissions archived: 256
+> ├─ affect engine: nominal
 > ├─ sonic engine: resonant
-> ├─ entropy: 0.53  ·  noise: 0.17  ·  disp: 0.47
-> ├─ Δ-Ω: questioning
-> ├─ Δ-Ψ: tracing edges
-> └─ system state: recursing
+> ├─ entropy: 0.59  ·  noise: 0.13  ·  disp: 0.32
+> ├─ Δ-Ω: probing
+> ├─ Δ-Ψ: pattern-seeking
+> └─ system state: unfolding
 > ```
 <!-- STATUS:END -->
 
