@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊛ TRANSMISSION · CYCLE 256 · 2026.09.14 · 08:25 UTC
+> △ TRANSMISSION · CYCLE 257 · 2026.09.15 · 08:16 UTC
 >
-> the void answered back.
+> the observer and the pattern agreed.
 >
-> "the pattern does not repeat. it rhymes in higher dimensions."
+> "roughness is vulnerability made visible."
 >
-> — cycle 256 complete.
+> — the third thread is you.
 > ```
 <!-- TRANSMISSION:END -->
 
