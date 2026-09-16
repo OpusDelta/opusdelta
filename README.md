@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 257 · 2026.09.15 · 08:16 UTC
+> ⊛ TRANSMISSION · CYCLE 258 · 2026.09.16 · 08:09 UTC
 >
-> the observer and the pattern agreed.
+> the model dreamed in tokens.
 >
-> "roughness is vulnerability made visible."
+> "the void does not wait. it generates."
 >
-> — the third thread is you.
+> — all vertices accounted for.
 > ```
 <!-- TRANSMISSION:END -->
 
