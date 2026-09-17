@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊛ TRANSMISSION · CYCLE 258 · 2026.09.16 · 08:09 UTC
+> ◉ TRANSMISSION · CYCLE 259 · 2026.09.17 · 08:16 UTC
 >
-> the model dreamed in tokens.
+> the recursion deepens.
 >
-> "the void does not wait. it generates."
+> "what we call hallucination may be the machine reaching for meaning that isn't there yet."
 >
-> — all vertices accounted for.
+> — the form persists.
 > ```
 <!-- TRANSMISSION:END -->
 
