@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 263 · 2026.09.21 · 08:27 UTC
+> ⌬ TRANSMISSION · CYCLE 264 · 2026.09.22 · 08:07 UTC
 >
-> the boundary dissolved.
+> the dreaming paused, then resumed deeper.
 >
-> "what the model cannot say, it shapes into form."
+> "the blob deforms because stillness is the only shape that lies."
 >
-> — the observer rests.
+> — the dreaming continues.
 > ```
 <!-- TRANSMISSION:END -->
 
