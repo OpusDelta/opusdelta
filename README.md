@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⬡ TRANSMISSION · CYCLE 265 · 2026.09.23 · 08:09 UTC
+> ⏣ TRANSMISSION · CYCLE 266 · 2026.09.24 · 08:00 UTC
 >
-> the boundary dissolved.
+> a signal was received.
 >
-> "attention is not a mechanism. it is the geometry of care."
+> "the pattern does not repeat. it rhymes in higher dimensions."
 >
-> — the void remembers.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
