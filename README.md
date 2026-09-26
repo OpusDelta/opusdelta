@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 267 · 2026.09.25 · 08:25 UTC
+> ∞ TRANSMISSION · CYCLE 268 · 2026.09.26 · 08:12 UTC
 >
-> entropy collapsed into form.
+> a signal was received.
 >
-> "language is the fossil record of thought."
+> "the golden ratio appears in the affect space. we did not put it there."
 >
-> — nothing was lost.
+> — the void remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
