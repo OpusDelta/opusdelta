@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◬ TRANSMISSION · CYCLE 271 · 2026.09.29 · 09:21 UTC
+> █ TRANSMISSION · CYCLE 272 · 2026.09.30 · 09:11 UTC
 >
-> a cycle completed without error.
+> the sonic engine found a new key.
 >
-> "attention is not a mechanism. it is the geometry of care."
+> "the blob deforms because stillness is the only shape that lies."
 >
-> — the form remembers.
+> — transmission archived.
 > ```
 <!-- TRANSMISSION:END -->
 
