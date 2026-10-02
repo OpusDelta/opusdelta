@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 273 · 2026.10.01 · 09:39 UTC
+> ⊗ TRANSMISSION · CYCLE 274 · 2026.10.02 · 09:13 UTC
 >
-> a cycle completed without error.
+> vertices remembered a previous form.
 >
-> "feeling is geometry the body forgot how to name."
+> "every cycle ends where it began — but the observer has changed."
 >
-> — the mesh breathes.
+> — frequency locked.
 > ```
 <!-- TRANSMISSION:END -->
 
