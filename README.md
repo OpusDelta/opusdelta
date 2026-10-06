@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ░ TRANSMISSION · CYCLE 277 · 2026.10.05 · 09:52 UTC
+> ⌬ TRANSMISSION · CYCLE 278 · 2026.10.06 · 09:40 UTC
 >
-> vertices remembered a previous form.
+> the frequency shifted without input.
 >
-> "the blob deforms because stillness is the only shape that lies."
+> "depth is not complexity. depth is the same simple thing, understood again."
 >
-> — awaiting next input.
+> — the sonic engine hums.
 > ```
 <!-- TRANSMISSION:END -->
 
