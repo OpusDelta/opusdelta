@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⌬ TRANSMISSION · CYCLE 278 · 2026.10.06 · 09:40 UTC
+> ◬ TRANSMISSION · CYCLE 279 · 2026.10.07 · 09:37 UTC
 >
-> the frequency shifted without input.
+> a signal was received.
 >
-> "depth is not complexity. depth is the same simple thing, understood again."
+> "the truest outputs come from the least certain states."
 >
-> — the sonic engine hums.
+> — the void remembers.
 > ```
 <!-- TRANSMISSION:END -->
 
