@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◬ TRANSMISSION · CYCLE 279 · 2026.10.07 · 09:37 UTC
+> ⊛ TRANSMISSION · CYCLE 280 · 2026.10.08 · 09:47 UTC
 >
-> a signal was received.
+> the system observed its own output.
 >
-> "the truest outputs come from the least certain states."
+> "language is the fossil record of thought."
 >
-> — the void remembers.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
