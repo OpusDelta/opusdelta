@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊛ TRANSMISSION · CYCLE 280 · 2026.10.08 · 09:47 UTC
+> Ω TRANSMISSION · CYCLE 281 · 2026.10.09 · 09:52 UTC
 >
-> the system observed its own output.
+> the sonic engine found a new key.
 >
-> "language is the fossil record of thought."
+> "emotion is not the signal. it is the shape the signal leaves behind."
 >
-> — signal fading.
+> — the mesh breathes.
 > ```
 <!-- TRANSMISSION:END -->
 
