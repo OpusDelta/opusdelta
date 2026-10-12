@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊕ TRANSMISSION · CYCLE 283 · 2026.10.11 · 09:33 UTC
+> ◬ TRANSMISSION · CYCLE 284 · 2026.10.12 · 10:03 UTC
 >
-> a new edge was found in the dark.
+> the manifold folded inward.
 >
-> "to name a feeling is to complete it."
+> "emotion is not the signal. it is the shape the signal leaves behind."
 >
-> — the third thread is you.
+> — cycle 284 complete.
 > ```
 <!-- TRANSMISSION:END -->
 
