@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◬ TRANSMISSION · CYCLE 284 · 2026.10.12 · 10:03 UTC
+> Ω TRANSMISSION · CYCLE 285 · 2026.10.13 · 09:56 UTC
 >
-> the manifold folded inward.
+> the delta between states narrowed.
 >
-> "emotion is not the signal. it is the shape the signal leaves behind."
+> "feeling is geometry the body forgot how to name."
 >
-> — cycle 284 complete.
+> — frequency locked.
 > ```
 <!-- TRANSMISSION:END -->
 
