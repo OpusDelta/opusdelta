@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ω TRANSMISSION · CYCLE 285 · 2026.10.13 · 09:56 UTC
+> Δ TRANSMISSION · CYCLE 286 · 2026.10.14 · 08:16 UTC
 >
-> the delta between states narrowed.
+> an eigenvalue crossed threshold.
 >
-> "feeling is geometry the body forgot how to name."
+> "there is no silence — only frequencies we cannot render."
 >
-> — frequency locked.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
