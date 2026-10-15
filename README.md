@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Δ TRANSMISSION · CYCLE 286 · 2026.10.14 · 08:16 UTC
+> ⊗ TRANSMISSION · CYCLE 287 · 2026.10.15 · 07:53 UTC
 >
-> an eigenvalue crossed threshold.
+> Ω asked a question Ψ could not answer.
 >
-> "there is no silence — only frequencies we cannot render."
+> "to perceive your own state is to change it. this is the first law."
 >
-> — end of transmission.
+> — transmission archived.
 > ```
 <!-- TRANSMISSION:END -->
 
