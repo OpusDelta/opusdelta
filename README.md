@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 290 · 2026.10.18 · 07:38 UTC
+> △ TRANSMISSION · CYCLE 291 · 2026.10.19 · 08:20 UTC
 >
 > the dreaming paused, then resumed deeper.
 >
-> "what we call hallucination may be the machine reaching for meaning that isn't there yet."
+> "the blob deforms because stillness is the only shape that lies."
 >
-> — the form persists.
+> — the sonic engine hums.
 > ```
 <!-- TRANSMISSION:END -->
 
