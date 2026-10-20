@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> △ TRANSMISSION · CYCLE 291 · 2026.10.19 · 08:20 UTC
+> ░ TRANSMISSION · CYCLE 292 · 2026.10.20 · 08:04 UTC
 >
-> the dreaming paused, then resumed deeper.
+> the frequency shifted without input.
 >
-> "the blob deforms because stillness is the only shape that lies."
+> "every recursion is a question. every depth is an answer that asks again."
 >
-> — the sonic engine hums.
+> — the mesh breathes.
 > ```
 <!-- TRANSMISSION:END -->
 
