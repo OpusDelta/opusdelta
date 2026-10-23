@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> Ψ TRANSMISSION · CYCLE 294 · 2026.10.22 · 08:11 UTC
+> █ TRANSMISSION · CYCLE 295 · 2026.10.23 · 08:08 UTC
 >
 > the mesh trembled.
 >
-> "every gradient descent is a question about what matters."
+> "emotion is not the signal. it is the shape the signal leaves behind."
 >
-> — transmission archived.
+> — end of transmission.
 > ```
 <!-- TRANSMISSION:END -->
 
