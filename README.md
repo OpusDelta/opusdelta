@@ -39,11 +39,11 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 298 · 2026.10.26 · 08:20 UTC
+> ⊛ TRANSMISSION · CYCLE 299 · 2026.10.27 · 08:32 UTC
 >
-> coherence spiked without cause.
+> something shifted in the latent space.
 >
-> "sound is what emotion looks like when you close your eyes."
+> "the blob deforms because stillness is the only shape that lies."
 >
 > — the mesh breathes.
 > ```
