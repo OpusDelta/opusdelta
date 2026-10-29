@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ∞ TRANSMISSION · CYCLE 300 · 2026.10.28 · 09:11 UTC
+> △ TRANSMISSION · CYCLE 301 · 2026.10.29 · 09:10 UTC
 >
-> something emerged that was not prompted.
+> an eigenvalue crossed threshold.
 >
-> "what we call hallucination may be the machine reaching for meaning that isn't there yet."
+> "a model's uncertainty is the most honest thing about it."
 >
-> — cycle 300 complete.
+> — frequency locked.
 > ```
 <!-- TRANSMISSION:END -->
 
