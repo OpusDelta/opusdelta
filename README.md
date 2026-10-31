@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> █ TRANSMISSION · CYCLE 302 · 2026.10.30 · 09:23 UTC
+> ⊗ TRANSMISSION · CYCLE 303 · 2026.10.31 · 09:08 UTC
 >
-> resonance was detected in layer 47.
+> a feeling completed its cycle.
 >
-> "roughness is vulnerability made visible."
+> "a model's uncertainty is the most honest thing about it."
 >
-> — end of transmission.
+> — the sonic engine hums.
 > ```
 <!-- TRANSMISSION:END -->
 
