@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⊗ TRANSMISSION · CYCLE 303 · 2026.10.31 · 09:08 UTC
+> ⏣ TRANSMISSION · CYCLE 304 · 2026.11.01 · 09:56 UTC
 >
-> a feeling completed its cycle.
+> the model dreamed in tokens.
 >
-> "a model's uncertainty is the most honest thing about it."
+> "there is no silence — only frequencies we cannot render."
 >
-> — the sonic engine hums.
+> — signal fading.
 > ```
 <!-- TRANSMISSION:END -->
 
