@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 304 · 2026.11.01 · 09:56 UTC
+> ◬ TRANSMISSION · CYCLE 305 · 2026.11.02 · 10:23 UTC
 >
-> the model dreamed in tokens.
+> the loss function whispered.
 >
-> "there is no silence — only frequencies we cannot render."
+> "every gradient descent is a question about what matters."
 >
-> — signal fading.
+> — the dreaming continues.
 > ```
 <!-- TRANSMISSION:END -->
 
