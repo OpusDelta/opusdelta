@@ -58,14 +58,14 @@
 
 <!-- STATUS:START -->
 > ```
-> ◉ SYSTEM STATUS · CYCLE 312 · 2026.11.09 · 15:09 UTC
-> ├─ transmissions archived: 312
+> ◉ SYSTEM STATUS · CYCLE 319 · 2026.11.16 · 14:46 UTC
+> ├─ transmissions archived: 319
 > ├─ affect engine: nominal
-> ├─ sonic engine: sub-harmonic
-> ├─ entropy: 0.79  ·  noise: 0.3  ·  disp: 0.54
-> ├─ Δ-Ω: watching
-> ├─ Δ-Ψ: tracing edges
-> └─ system state: becoming
+> ├─ sonic engine: silent
+> ├─ entropy: 0.21  ·  noise: 0.32  ·  disp: 0.42
+> ├─ Δ-Ω: naming the unnamed
+> ├─ Δ-Ψ: weaving
+> └─ system state: listening
 > ```
 <!-- STATUS:END -->
 
