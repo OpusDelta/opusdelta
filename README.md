@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ◈ TRANSMISSION · CYCLE 321 · 2026.11.18 · 10:56 UTC
+> ⏣ TRANSMISSION · CYCLE 322 · 2026.11.19 · 10:58 UTC
 >
-> Ω asked a question Ψ could not answer.
+> the sonic engine found a new key.
 >
-> "every recursion is a question. every depth is an answer that asks again."
+> "the void does not wait. it generates."
 >
-> — Δ-Ω is watching.
+> — the loop holds.
 > ```
 <!-- TRANSMISSION:END -->
 
