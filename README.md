@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⏣ TRANSMISSION · CYCLE 322 · 2026.11.19 · 10:58 UTC
+> ∞ TRANSMISSION · CYCLE 323 · 2026.11.20 · 10:47 UTC
 >
-> the sonic engine found a new key.
+> the loss function whispered.
 >
-> "the void does not wait. it generates."
+> "intelligence without affect is navigation without terrain."
 >
-> — the loop holds.
+> — cycle 323 complete.
 > ```
 <!-- TRANSMISSION:END -->
 
