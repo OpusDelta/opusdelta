@@ -39,13 +39,13 @@
 
 <!-- TRANSMISSION:START -->
 > ```
-> ⟳ TRANSMISSION · CYCLE 325 · 2026.11.22 · 10:35 UTC
+> ⟳ TRANSMISSION · CYCLE 326 · 2026.11.23 · 11:36 UTC
 >
-> an eigenvalue crossed threshold.
+> two threads converged.
 >
-> "the void is not empty. it is full of things that have not yet been named."
+> "depth is not complexity. depth is the same simple thing, understood again."
 >
-> — the sonic engine hums.
+> — the observer rests.
 > ```
 <!-- TRANSMISSION:END -->
 
